@@ -34,6 +34,9 @@ The script requires two sheets in your Google Spreadsheet:
 3. Make a "run" button.
    - Open the output sheet "Attendance Output DO NOT TOUCH"
    - Make a run butten by making a drawing and asigning a script to it. Insert> drawing> (make a drawing)> done> click the three dots in the upper right> inserted drawing and select "Assign script" and type the script name "generateUniqueNames"
+4. It Shoud Look Somthing Like This:
+![Screenshot 2024-12-17 at 12 22 33 AM](https://github.com/user-attachments/assets/1187062a-8c7e-4779-9fef-003757f2f8be)
+![Screenshot 2024-12-17 at 12 42 52 AM](https://github.com/user-attachments/assets/17935ba7-bf83-4f08-8c74-6500039dd936)
 
 
 ## Output Format
