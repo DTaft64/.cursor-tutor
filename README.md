@@ -1,6 +1,6 @@
 [READ ME for Google Sheets Attendance Tracker.md](https://github.com/user-attachments/files/17823421/READ.ME.for.Google.Sheets.Attendance.Tracker.md)
 
-# Google Sheets Attendance Tracker
+# Google Sheets Attendance Tracker `generateUniqueNames()`
 
 ## Overview
 This Google Apps Script processes form responses to track unique attendance for Friday events. It automatically filters, counts, and formats attendance data from a form response sheet into a clean, readable output.
