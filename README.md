@@ -21,7 +21,7 @@ The script requires two sheets in your Google Spreadsheet:
 
 2. **Attendance Output DO NOT TOUCH**: Destination sheet for processed data
 
-## Usage
+## Setup The Sheet
 1. Install the apps script code.
    - Open your Google Sheet
    - Go to Extensions > Apps Script
@@ -33,7 +33,7 @@ The script requires two sheets in your Google Spreadsheet:
    - Title the output sheet "Attendance Output DO NOT TOUCH"
 3. Make a "run" button.
    - Open the output sheet "Attendance Output DO NOT TOUCH"
-   - Make a run butten by making a drawing and asigning a script to it. Insert> drawing> (make a drawing)> done> now right click on the inserted drawing and select "asign script" and select the script titled "___"
+   - Make a run butten by making a drawing and asigning a script to it. Insert> drawing> (make a drawing)> done> click the three dots in the upper right> inserted drawing and select "Assign script" and type the script name "generateUniqueNames"
 
 
 ## Output Format
