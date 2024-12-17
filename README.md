@@ -22,11 +22,14 @@ The script requires two sheets in your Google Spreadsheet:
 2. **Attendance Output DO NOT TOUCH**: Destination sheet for processed data
 
 ## Usage
-1. Open your Google Sheet
-2. Go to Extensions > Apps Script
-3. Copy the entire code into the script editor
-4. Save the script
-5. Run the `generateUniqueNames()` function
+1. Install the apps script code.
+   A) Open your Google Sheet
+   B) Go to Extensions > Apps Script
+   C) Copy the entire code into the script editor
+   D) Save the script
+   E) Run the `generateUniqueNames()` function
+2. Configure the spreadsheet.
+3. Make a "run" button.
 
 ## Output Format
 The script generates:
@@ -64,4 +67,4 @@ Adds explanatory text about the script's functionality.
 - Any changes to the form structure will require corresponding updates to the script
 
 ## Support
-For issues or questions, please contact your system administrator or the script maintainer.
+For issues or questions, please contact me at dtaft on discord
