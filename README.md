@@ -23,13 +23,18 @@ The script requires two sheets in your Google Spreadsheet:
 
 ## Usage
 1. Install the apps script code.
-   A) Open your Google Sheet
-   B) Go to Extensions > Apps Script
-   C) Copy the entire code into the script editor
-   D) Save the script
-   E) Run the `generateUniqueNames()` function
+   - Open your Google Sheet
+   - Go to Extensions > Apps Script
+   - Copy the entire code into the script editor
+   - Save the script
+   - Run the `generateUniqueNames()` function
 2. Configure the spreadsheet.
+   - Title the Google forum sheet "Form Responses 1"
+   - Title the output sheet "Attendance Output DO NOT TOUCH"
 3. Make a "run" button.
+   - Open the output sheet "Attendance Output DO NOT TOUCH"
+   - Make a run butten by making a drawing and asigning a script to it. Insert> drawing> (make a drawing)> done> now right click on the inserted drawing and select "asign script" and select the script titled "___"
+
 
 ## Output Format
 The script generates:
