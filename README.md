@@ -68,6 +68,7 @@ Adds explanatory text about the script's functionality.
 - Batch operations for reading/writing
 - Efficient data processing using reduce()
 - Minimized API calls
+- Try to put all Functions in one bigger Function for refrence optemization
 
 ## Maintenance
 - Sheet names must match exactly: "Form Responses 1" and "Attendance Output DO NOT TOUCH"
