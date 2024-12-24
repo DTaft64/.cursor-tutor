@@ -7,10 +7,10 @@ This Google Apps Script processes form responses to track unique attendance for 
 
 ## Features
 - Filters for Friday attendance only
-- Removes duplicate entries for the same person on the same day
-- Counts total attendance per person
-- Sorts by attendance frequency
-- Formatted output with consistent styling
+- Removes duplicate entries for the same person on the same day.
+- Counts total attendance per person.
+- Sorts by attendance frequency.
+- Formatted output with consistent styling.
 
 ## Sheet Requirements
 The script requires two sheets in your Google Spreadsheet:
